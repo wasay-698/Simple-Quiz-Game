@@ -21,18 +21,19 @@ Welcome to the **Computer Quiz**! This is a simple, interactive quiz program wri
    ```bash
    git clone https://github.com/yourusername/computer-quiz.git
 
-# Navigate to the project directory:
-cd computer-quiz
+## Navigate to the project directory:
+   ```bash
+   cd computer-quiz
 
-# Run the program:
+## Run the program:
+   ```bash
+   python quiz.py
 
-python quiz.py
-
-# How to Play
+## How to Play
 Run the Python script.
 You will be prompted to play. Enter "yes" to begin the quiz.
 Answer each question by typing your response and pressing Enter.
 After all questions are answered, your final score will be displayed.
 
-# Result
+## Result
 # ![jike](https://github.com/user-attachments/assets/1b9c5d44-2294-4723-aaad-31dc13c31e37)
