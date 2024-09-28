@@ -34,4 +34,5 @@ You will be prompted to play. Enter "yes" to begin the quiz.
 Answer each question by typing your response and pressing Enter.
 After all questions are answered, your final score will be displayed.
 
+# Result
 # ![jike](https://github.com/user-attachments/assets/1b9c5d44-2294-4723-aaad-31dc13c31e37)
