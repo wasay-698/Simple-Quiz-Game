@@ -1,4 +1,6 @@
-# Computer Quiz
+
+
+Computer Quiz
 
 Welcome to the **Computer Quiz**! This is a simple, interactive quiz program written in Python. It asks questions related to general knowledge and data science, and calculates a final score based on the number of correct answers.
 
@@ -26,3 +28,10 @@ cd computer-quiz
 
 python quiz.py
 
+# How to Play
+Run the Python script.
+You will be prompted to play. Enter "yes" to begin the quiz.
+Answer each question by typing your response and pressing Enter.
+After all questions are answered, your final score will be displayed.
+
+# ![jike](https://github.com/user-attachments/assets/1b9c5d44-2294-4723-aaad-31dc13c31e37)
