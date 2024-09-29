@@ -26,7 +26,7 @@ else:
 
 # Question 3
 answer = input("The world's largest deep sea port, Gwadar, is in? ").lower()
-if answer == "pakistan":
+if answer == "Pakistan":
     print('Correct! 👏')
     score += 1
 else:
@@ -34,7 +34,7 @@ else:
 
 # Question 4
 answer = input("Which Foundation proudly runs the world’s largest volunteer ambulance service? ").lower()
-if answer == "pakistan’s edhi" or answer == "edhi":
+if answer == "Pakistan’s edhi" or answer == "edhi":
     print('Correct! 👏')
     score += 1
 else:
