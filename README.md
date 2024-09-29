@@ -1,6 +1,6 @@
 
 
-# 🚀 Computer Quiz
+<h1 align="center">🚀 Computer Quiz</h1>
 
 Welcome to the **Computer Quiz**! This is a simple, interactive quiz program written in Python. It asks questions related to general knowledge and data science, and calculates a final score based on the number of correct answers.
 
