@@ -22,14 +22,10 @@ Welcome to the **Computer Quiz**! This is a simple, interactive quiz program wri
    git clone https://github.com/yourusername/computer-quiz.git
 
 ## Navigate to the project directory:
-
-
    ```bash
    cd computer-quiz
 
 ## Run the program:
-
-
    ```bash
    python quiz.py
 
