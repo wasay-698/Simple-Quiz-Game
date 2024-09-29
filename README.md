@@ -21,11 +21,11 @@ Welcome to the **Computer Quiz**! This is a simple, interactive quiz program wri
    ```bash
    git clone https://github.com/yourusername/computer-quiz.git
 
-## Navigate to the project directory:
+2. Navigate to the project directory:
    ```bash
    cd computer-quiz
 
-## Run the program:
+3. Run the program:
    ```bash
    python quiz.py
 
